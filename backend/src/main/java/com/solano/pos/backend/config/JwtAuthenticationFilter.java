@@ -1,4 +1,4 @@
-package com.solano.pos.backend.model.config;
+package com.solano.pos.backend.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
